@@ -2,7 +2,7 @@
 
 ## Usage
 ```
-git clone --recursive git@github.com:ryanckoch/vim-dotfiles.git ~/.vim
+git clone --recursive https://github.com/ryanckoch/vim-dotfiles.git ~/.vim
 ln -s ~/.vim/.vimrc ~/.vimrc
 ```
 
