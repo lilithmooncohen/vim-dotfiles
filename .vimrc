@@ -1,7 +1,8 @@
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
-:set mouse=a
+set mouse=a
+set clipboard=unnamed
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
